@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#this-is-a-subtitle",
+    "href": "index.html#this-is-a-subtitle",
+    "title": "website",
+    "section": "This is a subtitle",
+    "text": "This is a subtitle\nThis is text\n t Text related to ?@fig-Saturn"
+  }
+]
