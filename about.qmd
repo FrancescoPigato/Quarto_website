@@ -12,4 +12,7 @@ about:
       href: https://github.com
 ---
 
-About this site
+This is the content of the about page
+
+#Subheader
+
